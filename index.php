@@ -1,0 +1,1 @@
+<!-- logic function view -->
